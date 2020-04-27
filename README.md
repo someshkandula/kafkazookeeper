@@ -1,4 +1,4 @@
-# Kafka Docker
+# Kafka Docker - Local environment setup
 
 To deploy zookeeper and Kafka single node cluster in apache kafka or confluent
 
