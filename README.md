@@ -21,3 +21,7 @@ cd confluent
 docker-compose up -d
 
 docker ps
+
+# Producer & Consumer - Maven Project
+
+producer and consumer - maven project
